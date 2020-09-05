@@ -1,0 +1,42 @@
+
+Location C:\projects\twitter_comments
+
+Existing Interpreter  C:\Users\91996\AppData\Local\Continuum\anaconda3\envs\twitter_comments\python.exe
+
+
+
+conda create -n twitter_comments
+
+environment location: C:\Users\91996\AppData\Local\Continuum\anaconda3\envs\twitter_comments
+
+
+conda install python=3.6.2
+
+conda install pandas=1.1.0
+
+conda install -c conda-forge tweepy=3.9.0 
+
+conda install -c anaconda nltk=3.5
+
+conda install -c conda-forge spacy=2.3.2
+
+pip install twitterscraper==1.6.1
+
+conda install -c conda-forge textblob=0.15.3
+
+pip install tweet-preprocessor==0.6.0
+
+pip install twitter==1.18.0
+
+conda install -c conda-forge python-twitter=3.5
+
+conda install -c conda-forge selenium=4.8.3
+
+
+C:\Users\91996\AppData\Local\Continuum\anaconda3\envs\aws_serverless\Lib\site-packages
+
+
+
+
+
+
